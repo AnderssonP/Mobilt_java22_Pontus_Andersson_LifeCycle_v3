@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">uppgift2</string>
+    <string name="header">Froggen</string>
+    <string name="Create">Skapa konto</string>
+    <string name="inlogg">Stanna inloggad</string>
+    <string name="bread">Logga in för att lägga till din favorit groda</string>
+    <string name="login">Logga in</string>
+    <!-- fragment -->
+    <string name="CreateAccount">Skapa konto</string>
+    <string name="headerAccount">Skapa ett konto</string>
+    <string name="ExitButton">X</string>
+    <!-- myAccount -->
+    <string name="myA">Mitt konto</string>
+    <string name="update">Uppdatera mina uppgifter</string>
+    <!-- update Fragment -->
+    <string name="updateFrag">Uppdatera</string>
+</resources>

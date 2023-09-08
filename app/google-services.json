@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508541654519",
+    "project_id": "froggen-20549",
+    "storage_bucket": "froggen-20549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508541654519:android:3a204ddf2af3d429fd0af2",
+        "android_client_info": {
+          "package_name": "com.example.uppgift2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508541654519-9kb2f7mdn2lud279jenio6j1tcath9nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcA26JwKkf1j3_qSFwdSemAAiCYjtqArI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508541654519-9kb2f7mdn2lud279jenio6j1tcath9nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
